@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1662359342 source:c:\users\fcis\documents\codeblock ejercicios\patron_observer\main.cpp
+	<iostream>
+	"include/Observador.h"
+	"include/Observado.h"
+	"include/UnObservador.h"
+	"include/UnObservado.h"
+
+1662133990 source:c:\users\fcis\documents\codeblock ejercicios\patron_observer\src\unobservador.cpp
+	<iostream>
+	"../include/UnObservador.h"
+	"../include/UnObservado.h"
+
+1662113294 c:\users\fcis\documents\codeblock ejercicios\patron_observer\inlcude\unobservador.h
+	"Observador.h"
+	<string>
+
+1662112309 c:\users\fcis\documents\codeblock ejercicios\patron_observer\inlcude\observador.h
+
+1662129215 source:c:\users\fcis\documents\codeblock ejercicios\patron_observer\src\unobservado.cpp
+	"../include/UnObservado.h"
+	"../include/UnObservador.h"
+	<vector>
+
+1662359248 c:\users\fcis\documents\codeblock ejercicios\patron_observer\include\unobservado.h
+	<string>
+	"Observado.h"
+	"UnObservador.h"
+
+1662137215 c:\users\fcis\documents\codeblock ejercicios\patron_observer\include\observado.h
+	<vector>
+	"Observador.h"
+	"UnObservador.h"
+
+1662133224 c:\users\fcis\documents\codeblock ejercicios\patron_observer\include\unobservador.h
+	<iostream>
+	"Observador.h"
+	<string>
+
+1662129881 c:\users\fcis\documents\codeblock ejercicios\patron_observer\include\observador.h
+
+1662136905 source:c:\users\fcis\documents\codeblock ejercicios\patron_observer\src\observado.cpp
+	"../include/Observado.h"
+	"../include/UnObservador.h"
+
+1662359342 source:c:\users\fcis\source\repos\_cusrso_cpp\patron_observer\main.cpp
+	<iostream>
+	"include/Observador.h"
+	"include/Observado.h"
+	"include/UnObservador.h"
+	"include/UnObservado.h"
+
+1662129881 c:\users\fcis\source\repos\_cusrso_cpp\patron_observer\include\observador.h
+
+1662137215 c:\users\fcis\source\repos\_cusrso_cpp\patron_observer\include\observado.h
+	<vector>
+	"Observador.h"
+	"UnObservador.h"
+
+1662133224 c:\users\fcis\source\repos\_cusrso_cpp\patron_observer\include\unobservador.h
+	<iostream>
+	"Observador.h"
+	<string>
+
+1662359248 c:\users\fcis\source\repos\_cusrso_cpp\patron_observer\include\unobservado.h
+	<string>
+	"Observado.h"
+	"UnObservador.h"
+
+1662136905 source:c:\users\fcis\source\repos\_cusrso_cpp\patron_observer\src\observado.cpp
+	"../include/Observado.h"
+	"../include/UnObservador.h"
+
+1662133990 source:c:\users\fcis\source\repos\_cusrso_cpp\patron_observer\src\unobservador.cpp
+	<iostream>
+	"../include/UnObservador.h"
+	"../include/UnObservado.h"
+
