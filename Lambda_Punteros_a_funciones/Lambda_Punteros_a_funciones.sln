@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lambda_Punteros_a_funciones", "Lambda_Punteros_a_funciones\Lambda_Punteros_a_funciones.vcxproj", "{942F8D0E-B83C-4879-88D9-D2E331683F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{942F8D0E-B83C-4879-88D9-D2E331683F72}.Debug|x64.ActiveCfg = Debug|x64
+		{942F8D0E-B83C-4879-88D9-D2E331683F72}.Debug|x64.Build.0 = Debug|x64
+		{942F8D0E-B83C-4879-88D9-D2E331683F72}.Debug|x86.ActiveCfg = Debug|Win32
+		{942F8D0E-B83C-4879-88D9-D2E331683F72}.Debug|x86.Build.0 = Debug|Win32
+		{942F8D0E-B83C-4879-88D9-D2E331683F72}.Release|x64.ActiveCfg = Release|x64
+		{942F8D0E-B83C-4879-88D9-D2E331683F72}.Release|x64.Build.0 = Release|x64
+		{942F8D0E-B83C-4879-88D9-D2E331683F72}.Release|x86.ActiveCfg = Release|Win32
+		{942F8D0E-B83C-4879-88D9-D2E331683F72}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC1604F6-EFC8-4D74-80CC-413DFD02524D}
+	EndGlobalSection
+EndGlobal
